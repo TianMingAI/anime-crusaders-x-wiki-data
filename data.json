@@ -1,0 +1,22 @@
+{
+  "game": "Anime Crusaders X",
+  "release": "Anniversary Part 2",
+  "source": "https://crusadersx.wiki/codes/anime-crusaders-x-codes/",
+  "checkedAt": "2026-11-25",
+  "flyingMultipliers": {
+    "dedicatedHill": 1.5,
+    "hybridOnHill": 1.0,
+    "hybridOnGround": 0.666,
+    "pureGround": 0.333
+  },
+  "activeCodes": [
+    { "code": "100KBABY", "levelGate": 15, "status": "reported" },
+    { "code": "WECAREFORYOUGUYS", "levelGate": null, "status": "reported" },
+    { "code": "ANNIVERSARYP2", "levelGate": null, "status": "reported" },
+    { "code": "PIRATEKING", "levelGate": null, "status": "reported" },
+    { "code": "TOURNAMENTOFPOWER", "levelGate": null, "status": "reported" },
+    { "code": "CLANHIDEOUT", "levelGate": null, "status": "reported" },
+    { "code": "THANKYOUFOR50K", "levelGate": 1, "groupRequired": true, "status": "reported" },
+    { "code": "ACBESTTD2026", "levelGate": 1, "groupRequired": true, "status": "reported" }
+  ]
+}
